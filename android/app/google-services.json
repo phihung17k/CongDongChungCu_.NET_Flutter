@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "361964157470",
+    "firebase_url": "https://congdongchungcu-520e7-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "congdongchungcu-520e7",
+    "storage_bucket": "congdongchungcu-520e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361964157470:android:174e4ef24cc0f61a728c0f",
+        "android_client_info": {
+          "package_name": "com.example.congdongchungcu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361964157470-irfg0nqjm3qbv4k9vqb5qk0040pf9kq8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.congdongchungcu",
+            "certificate_hash": "8ae14fc83e5ebdbe489e30970df2abe388f4fc8c"
+          }
+        },
+        {
+          "client_id": "361964157470-pf3c1fl7obdqej9susmql8a04g5dmcgc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAv356PfZe9nteafUsRvwiBCOyC9LI5Q4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361964157470-pf3c1fl7obdqej9susmql8a04g5dmcgc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
